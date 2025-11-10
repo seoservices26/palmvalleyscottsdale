@@ -5,7 +5,7 @@
 <title>Privacy Policy</title>
 <meta name="title" content="Privacy Policy ">
 <meta name="DC.title" lang="en" content="Privacy Policy ">
-<meta name="description" content="<p>Trusted pediatric dentist in Scottsdale, Arizona providing gentle, expert dental care for children in a friendly, kid-focused environment.</p>">
+<meta name="description" content="Palm Valley Pediatric Dentistry & Orthodontics offers expert pediatric dental care in Scottsdale. Board-certified specialists, sedation options & orthodontics. Call 623-535-7873.">
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -18,106 +18,106 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css"> 
-ul{
-list-style: circle;
+.navbar a{
+font-size: 18.5px;
 }
-.abff391bd864e8ce98861f711abfe1df2{
-background-color:#1d126d!important;
-border-color:#1d126d!important;
-color:#ffffff!important;
+.ta419b150dc1c7ce618b32562b7a04a32{
+font-size:19.5px;
+padding:9.9px;
+color: black;
 }
-.nav-link{
-color: #0e0e0e !important;
+.display-2{
+font-size: 45.1px;
 }
 .underline .line{
 width: 5rem;
 height: 3px;
-background: linear-gradient(90deg, #ad97ff,#ff636c);
+background: linear-gradient(90deg, #b39dff,#ff5d66);
 display: inline-block;
-}
-.u7927201fe66c10c8cb9e8cbf4d8eaced i:hover{
-background: black;
-color:#ffd9dd;
-border-radius: 50%;
-width:10mm;
-text-align:center;
-height:10mm;
-}
-.btn-md{
-padding:15.5px 29.6px;
-border-radius: 0;
-}
-footer{
-padding-top:59.5px;
-padding-bottom:59.6px;
-}
-li a{
-color: #ff5f68;
 }
 .align-self-stretch{
 ms-flex-item-align: stretch!important;
 align-self: stretch!important;
 }
-.xd6b2a5885b802db5ccb3593ea0be93bd:hover{
-background-size: 100% 100%!important;
-color:#3f248a!important;
-background:#ffffff!important;
-background-repeat: no-repeat!important;
-background-position: 0 90%!important; 
-transition: background-size 0.2s ease-in!important;
+.btn-md{
+padding:15px 30.4px;
+border-radius: 0;
 }
-.u7927201fe66c10c8cb9e8cbf4d8eaced{
-font-size:19.7px;
-padding:9.5px;
-color: black;
+.ta419b150dc1c7ce618b32562b7a04a32 i:hover{
+background: black;
+color:#fecbcf;
+border-radius: 50%;
+width:10mm;
+text-align:center;
+height:10mm;
 }
-*{
-font-family: 'Poppins', sans-serif;
-}
-footer a{
-color:  #848484!important;
-text-decoration: underline!important;
-}
-a{
-text-decoration: none!important;
-}
-footer *{
-font-size:19px!important;
-color:#848484!important;
-line-height: 1.5;
-}
-.f2a866eba41d063b348a34b107f59e213 *{
-color:white!important;
-}
-.za31cc6e229c6fc2b6d3f1272e717246f{
-text-decoration: underline!important;
-}
-.display-2{
-font-size: 44.9px;
-}
-.u7927201fe66c10c8cb9e8cbf4d8eaced i{
+.ta419b150dc1c7ce618b32562b7a04a32 i{
 border-radius: 50%;
 width: 10mm;
 text-align: center;
 line-height: 37px;
 height: 10mm;
 }
-.nav-item{
-margin-top: 10.4px;
-margin-bottom: 9.5px;
-padding-left: 6.7px;
-padding-right: 7.1px;
-}
-.navbar a{
-font-size: 18.1px;
-}
 footer ul{
 padding-left: 0px!important;
 list-style: none;
 }
-.f2a866eba41d063b348a34b107f59e213{
+footer *{
+font-size:19px!important;
+color:#808080!important;
+line-height: 1.5;
+}
+.nav-link{
+color: #040404 !important;
+}
+.v47f90ee81fbe0a05a85c03ffc5f71fcd{
+text-decoration: underline!important;
+}
+footer{
+padding-top:60.1px;
+padding-bottom:60.4px;
+}
+.wfd94626b2900d643553727624520e290{
 background: rgba(0,0,0,0.6);
 text-align: center;
+}
+footer a{
+color:  #808080!important;
+text-decoration: underline!important;
+}
+*{
+font-family: 'Poppins', sans-serif;
+}
+.y0b753026fd3e96c7fe3860f724589770{
+background-color:#fe5270!important;
+border-color:#fe5270!important;
+color:#ffffff!important;
+}
+li a{
+color: #ff5a63;
+}
+.nav-item{
+margin-top: 10.3px;
+margin-bottom: 9.7px;
+padding-left: 6.6px;
+padding-right: 7.1px;
+}
+.d44111bcdd6eba06f7c7ebbe63a59cb77:hover{
+background-size: 100% 100%!important;
+color:#fecbcf!important;
+background:#ffffff!important;
+background-repeat: no-repeat!important;
+background-position: 0 90%!important; 
+transition: background-size 0.2s ease-in!important;
+}
+a{
+text-decoration: none!important;
+}
+ul{
+list-style: circle;
+}
+.wfd94626b2900d643553727624520e290 *{
+color:white!important;
 }
 .dropdown-submenu {
     position: relative;
@@ -237,35 +237,33 @@ text-align: center;
 </style>
 </head>
 <body>
-<nav class="navbar-expand-lg navbar">
+<nav class="navbar navbar-expand-lg">
 <a class="navbar-brand" href="index.html"  >
 
 <img alt="" src="img/pvpdlogo.png"  width="100px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon fa fa-bars"></span>
-</button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="navbar-nav align-items-center ml-auto">
-<li class=" dropdown nav-item"><a class="xd6b2a5885b802db5ccb3593ea0be93bd dropdown-toggle nav-link" href="index.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Pediatric dentist  Scottsdale, Arizona</a>
-<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="index.html"  >Pediatric dentist  Scottsdale, Arizona</a>
-<li class="nav-item">
-<a class="xd6b2a5885b802db5ccb3593ea0be93bd nav-link" href="about-us.html" rel="nofollow" >About Us</a></li>
-<li class="nav-item"><a class="abff391bd864e8ce98861f711abfe1df2 btn btn-md" href="https://pvpd.com/online-appointment/" rel="nofollow">Contact Us</a></li>
+</button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav ml-auto align-items-center">
+<li class="nav-item"><a class="d44111bcdd6eba06f7c7ebbe63a59cb77 nav-link" href="index.html"  >Pediatric Dentist Scottsdale | Palm Valley Pediatric Dentistry</a></li><li class="nav-item">
+<a class="nav-link d44111bcdd6eba06f7c7ebbe63a59cb77" href="about-us.html" rel="nofollow" >About Us</a></li>
+<li class="nav-item"><a class="btn-md btn y0b753026fd3e96c7fe3860f724589770" href="https://pvpd.com/online-appointment/" rel="nofollow">Contact Us</a></li>
 </ul>
 </div>
 </nav>
 <div>
 <section class="container">
-<h1>Privacy Policy for Palm Valley Pediatric Dentistry &amp; Orthodontics - Scottsdale</h1>
-<p>At Palm Valley Pediatric Dentistry &amp; Orthodontics - Scottsdale one of our main priorities is the privacy of our visitors.
-This Privacy Policy document contains types of information that is collected and recorded by Palm Valley Pediatric Dentistry &amp; Orthodontics - Scottsdale and how we use it. You can check out our main website here: https://pvpd.com/</p>
+<h1>Privacy Policy for Palm Valley Pediatric Dentistry & Orthodontics - Scottsdale</h1>
+<p>At Palm Valley Pediatric Dentistry & Orthodontics - Scottsdale one of our main priorities is the privacy of our visitors.
+This Privacy Policy document contains types of information that is collected and recorded by Palm Valley Pediatric Dentistry & Orthodontics - Scottsdale and how we use it. You can check out our main website here: https://pvpd.com/</p>
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
-<p>This Privacy Policy only applies to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Palm Valley Pediatric Dentistry &amp; Orthodontics - Scottsdale. This policy is not applicable to any information collected offline or via channels other than this website. </p>
+<p>This Privacy Policy only applies to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Palm Valley Pediatric Dentistry & Orthodontics - Scottsdale. This policy is not applicable to any information collected offline or via channels other than this website. </p>
 <h2>Consent</h2>
 <p>By using our website, you hereby consent to our Privacy Policy and agree to its terms.</p>
 <h2>Information we collect</h2>
 <p>The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</p>
 <p>If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.</p>
-<p>When you register for an Account, we may ask for your contact information, including items such as name, Palm Valley Pediatric Dentistry &amp; Orthodontics - Scottsdale, address, email address, and telephone number.</p>
+<p>When you register for an Account, we may ask for your contact information, including items such as name, Palm Valley Pediatric Dentistry & Orthodontics - Scottsdale, address, email address, and telephone number.</p>
 <h2>How we use your information</h2>
 <p>We use the information we collect in various ways, including to:</p>
 <ul>
@@ -278,13 +276,13 @@ This Privacy Policy document contains types of information that is collected and
 <li>Find and prevent fraud</li>
 </ul>
 <h2>Log Files</h2>
-<p>Palm Valley Pediatric Dentistry &amp; Orthodontics - Scottsdale follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
+<p>Palm Valley Pediatric Dentistry & Orthodontics - Scottsdale follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
 <h2>Advertising Partners Privacy Policies</h2>
-<P>You may consult this list to find the Privacy Policy for each of the advertising partners of Palm Valley Pediatric Dentistry &amp; Orthodontics - Scottsdale.</p>
-<p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Palm Valley Pediatric Dentistry &amp; Orthodontics - Scottsdale, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
-<p>Note that Palm Valley Pediatric Dentistry &amp; Orthodontics - Scottsdale has no access to or control over these cookies that are used by third-party advertisers.</p>
+<P>You may consult this list to find the Privacy Policy for each of the advertising partners of Palm Valley Pediatric Dentistry & Orthodontics - Scottsdale.</p>
+<p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Palm Valley Pediatric Dentistry & Orthodontics - Scottsdale, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
+<p>Note that Palm Valley Pediatric Dentistry & Orthodontics - Scottsdale has no access to or control over these cookies that are used by third-party advertisers.</p>
 <h2>Third Party Privacy Policies</h2>
-<p>Palm Valley Pediatric Dentistry &amp; Orthodontics - Scottsdale's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
+<p>Palm Valley Pediatric Dentistry & Orthodontics - Scottsdale's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
 <p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
 <h2>CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
 <p>Under the CCPA, among other rights, California consumers have the right to:</p>
@@ -303,11 +301,11 @@ This Privacy Policy document contains types of information that is collected and
 <p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
 <h2>Children's Information</h2>
 <p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
-<p>Palm Valley Pediatric Dentistry &amp; Orthodontics - Scottsdale does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+<p>Palm Valley Pediatric Dentistry & Orthodontics - Scottsdale does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
 <h2>Publisher</h2>
 <p>
 This website is owned and published by:
-Palm Valley Pediatric Dentistry &amp; Orthodontics - Scottsdale</br>
+Palm Valley Pediatric Dentistry & Orthodontics - Scottsdale</br>
 +1 623-535-7873</br>
 21070 N Pima Rd,</br>
 Scottsdale</br>
@@ -319,30 +317,68 @@ https://pvpd.com/</br>
 </div> 
 <footer>
 <div class="container">
-<div class="align-center justify-content-center row"><div class="col-md-3">
+<div class="justify-content-center align-center row"><div class="col-md-3">
 <div class="text-dark">
-<ul><li>Palm Valley Pediatric Dentistry &amp; Orthodontics - Scottsdale</li><li>Phone : +1 623-535-7873</li>
+<ul><li>Palm Valley Pediatric Dentistry & Orthodontics - Scottsdale</li><li>Phone : +1 623-535-7873</li>
 <li>City : Scottsdale</li>
 <li>State : AZ</li>
 <li>Zip : 85255</li>
 <li>Address : 21070 N Pima Rd,</li>
-<li><a class="xd6b2a5885b802db5ccb3593ea0be93bd" href="https://www.google.com/search?q=Palm+Valley+Pediatric+Dentistry+%26+Orthodontics+-+Scottsdale&amp;sca_esv=2d4d8ffc55fcccf2&amp;sxsrf=AE3TifOeFvgXiQg1GBkM5OgBY4qUh59dMg%3A1762445236851&amp;ei=tMcMaebeM5vc2roPt-2EiQk&amp;ved=0ahUKEwjmiJ2S9N2QAxUbrlYBHbc2IZEQ4dUDCBE&amp;uact=5&amp;oq=Palm+Valley+Pediatric+Dentistry+%26+Orthodontics+-+Scottsdale&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiO1BhbG0gVmFsbGV5IFBlZGlhdHJpYyBEZW50aXN0cnkgJiBPcnRob2RvbnRpY3MgLSBTY290dHNkYWxlMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSPAGUABYAHABeAGQAQCYAQCgAQCqAQC4AQPIAQCYAgGgAgyYAwCIBgGQBgeSBwExoAcAsgcAuAcAwgcDMy0xyAcJ&amp;sclient=gws-wiz-serp" rel="nofollow"> Google Business Profile</a></li>
-<li>Company Website : <a class="xd6b2a5885b802db5ccb3593ea0be93bd"  href="https://pvpd.com/" rel="nofollow">https://pvpd.com/</a></li>
+<li><a class="d44111bcdd6eba06f7c7ebbe63a59cb77" href="https://www.google.com/search?q=Palm+Valley+Pediatric+Dentistry+%26+Orthodontics+-+Scottsdale&sca_esv=2d4d8ffc55fcccf2&sxsrf=AE3TifOeFvgXiQg1GBkM5OgBY4qUh59dMg%3A1762445236851&ei=tMcMaebeM5vc2roPt-2EiQk&ved=0ahUKEwjmiJ2S9N2QAxUbrlYBHbc2IZEQ4dUDCBE&uact=5&oq=Palm+Valley+Pediatric+Dentistry+%26+Orthodontics+-+Scottsdale&gs_lp=Egxnd3Mtd2l6LXNlcnAiO1BhbG0gVmFsbGV5IFBlZGlhdHJpYyBEZW50aXN0cnkgJiBPcnRob2RvbnRpY3MgLSBTY290dHNkYWxlMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSPAGUABYAHABeAGQAQCYAQCgAQCqAQC4AQPIAQCYAgGgAgyYAwCIBgGQBgeSBwExoAcAsgcAuAcAwgcDMy0xyAcJ&sclient=gws-wiz-serp" rel="nofollow"> Google Business Profile</a></li>
+<li>Company Website : <a class="d44111bcdd6eba06f7c7ebbe63a59cb77"  href="https://pvpd.com/" rel="nofollow">https://pvpd.com/</a></li>
+</ul>
+</div>
+</div><div class="col-md-3">
+<h3 class="font-weight-bold b346ceb10c541077e8ee398436474c1c9">USEFUL LINKS</h3>
+<hr>
+<div>
+<ul>
+<li><a href="https://pvpd.com/services/arizona-pediatric-dentistry/" rel="nofollow" target="_blank">Pediatric Dentist</a></li><li><a href="https://pvpd.com/services/tooth-extraction/" rel="nofollow" target="_blank">Tooth extraction treatment</a></li><li><a href="https://pvpd.com/services/space-maintainers/" rel="nofollow" target="_blank">Space Maintainers in Arizona</a></li><li><a href="https://pvpd.com/services/babys-first-dental-cleaning/" rel="nofollow" target="_blank">Baby’s First Dental Cleaning Arizona</a></li><li><a href="https://pvpd.com/services/tongue-and-lip-tie-release-arizona/" rel="nofollow" target="_blank">Tongue Tie Release Treatment</a></li><li><a class="d44111bcdd6eba06f7c7ebbe63a59cb77" href="https://pvpd.com/services/air-way-obstruction/"  target="_blank">Air-Way Obstruction Solution Arizona</a></li>
+<li><a class="d44111bcdd6eba06f7c7ebbe63a59cb77" href="https://pvpd.com/services/in-office-anesthesia/"  target="_blank">In-Office Anesthesia</a></li>
+<li><a class="d44111bcdd6eba06f7c7ebbe63a59cb77" href="https://pvpd.com/dental-abscess-service/"  target="_blank">Pediatric Dental Abscess Treatment</a></li>
+<li><a class="d44111bcdd6eba06f7c7ebbe63a59cb77" href="https://pvpd.com/sedation-dentistry-arizona/"  target="_blank">Expert Sedation Dentistry</a></li>
+<li><a class="d44111bcdd6eba06f7c7ebbe63a59cb77" href="https://pvpd.com/special-needs-dentistry/"  target="_blank">Special Needs Dentistry</a></li>
+<li><a class="d44111bcdd6eba06f7c7ebbe63a59cb77" href="https://pvpd.com/pulp-therapy-in-arizona/"  target="_blank">Pulp Therapy in Arizona</a></li>
+<li><a class="d44111bcdd6eba06f7c7ebbe63a59cb77" href="https://pvpd.com/cosmetic-dentistry-in-arizona/"  target="_blank">Cosmetic Dentistry </a></li>
+<li><a class="d44111bcdd6eba06f7c7ebbe63a59cb77" href="https://pvpd.com/services/orthodontics-arizona/"  target="_blank">Orthodontic Care for Children and Teens in Arizona</a></li>
+<li><a class="d44111bcdd6eba06f7c7ebbe63a59cb77" href="https://pvpd.com/services/invisalign-arizona/"  target="_blank">Invisalign Clear Braces</a></li>
+<li><a class="d44111bcdd6eba06f7c7ebbe63a59cb77" href="https://pvpd.com/services/adult-orthodontics/"  target="_blank">adult orthodontics treatment</a></li>
 </ul>
 </div>
 </div> 
 <div class="col-md-3">
 <ul>
-<li><a class="xd6b2a5885b802db5ccb3593ea0be93bd" href="sitemap.html" rel="nofollow">Sitemap</a></li>
-<li><a class="xd6b2a5885b802db5ccb3593ea0be93bd" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></li>
-<li><a class="xd6b2a5885b802db5ccb3593ea0be93bd" href="about-us.html" rel="nofollow">About Us</a></li>
-</ul></div></div><div class="col-md-3">
-<h3 class="ac607a6f62d0333d893f9b26141bb5c24 font-weight-bold">Connect</h3>
+<li><a class="d44111bcdd6eba06f7c7ebbe63a59cb77" href="sitemap.html" rel="nofollow">Sitemap</a></li>
+<li><a class="d44111bcdd6eba06f7c7ebbe63a59cb77" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></li>
+<li><a class="d44111bcdd6eba06f7c7ebbe63a59cb77" href="about-us.html" rel="nofollow">About Us</a></li>
+<li><p>&nbsp;</p>
+
+<p style="line-height:1.2; margin-bottom:13px"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">TLDR: </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Conveniently located in Scottsdale providing easy access for area families.</span></span></span></span></span></span></p>
+
+<p style="line-height:1.2; margin-bottom:13px"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Our modern, welcoming practice facility operates from a convenient </span></span></span></span></span></span><a href="https://en.wikidata.org/wiki/Q49214" style="text-decoration:none"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#0563c1"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:underline"><span style="-webkit-text-decoration-skip:none"><span style="text-decoration-skip-ink:none">Scottsdale, Arizona</span></span></span></span></span></span></span></span></a><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"> location, ensuring families across the region can readily access outstanding pediatric dental and orthodontic services. We&#39;re dedicated to delivering comfortable, low-stress experiences beginning the instant you enter our welcoming practice environment.</span></span></span></span></span></span></p>
+
+<p style="line-height:1.2; margin-bottom:13px"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">Palm Valley Pediatric Dentistry &amp; Orthodontics</span></span></span></span></span></span></p>
+
+<p style="line-height:1.2"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Address: 21070 N Pima Rd, Scottsdale, AZ 85255, United States</span></span></span></span></span></span></p>
+
+<p style="line-height:1.2"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Phone: 623-535-7873</span></span></span></span></span></span></p>
+
+<p style="line-height:1.2; margin-bottom:13px"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Office Hours: Monday - Friday: 8:00 AM - 5:00 PM</span></span></span></span></span></span></p>
+
+<p style="line-height:1.2; text-align:center; margin-bottom:13px"><a href="https://www.google.com/search?q=Palm+Valley+Pediatric+Dentistry+%26+Orthodontics+-+Scottsdale&amp;sca_esv=2d4d8ffc55fcccf2&amp;sxsrf=AE3TifOeFvgXiQg1GBkM5OgBY4qUh59dMg%3A1762445236851&amp;ei=tMcMaebeM5vc2roPt-2EiQk&amp;ved=0ahUKEwjmiJ2S9N2QAxUbrlYBHbc2IZEQ4dUDCBE&amp;uact=5&amp;oq=Palm+Valley+Pediatric+Dentistry+%26+Orthodontics+-+Scottsdale&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiO1BhbG0gVmFsbGV5IFBlZGlhdHJpYyBEZW50aXN0cnkgJiBPcnRob2RvbnRpY3MgLSBTY290dHNkYWxlMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSPAGUABYAHABeAGQAQCYAQCgAQCqAQC4AQPIAQCYAgGgAgyYAwCIBgGQBgeSBwExoAcAsgcAuAcAwgcDMy0xyAcJ&amp;sclient=gws-wiz-serp" style="text-decoration:none"><span style="font-size:13.999999999999998pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#0563c1"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:underline"><span style="-webkit-text-decoration-skip:none"><span style="text-decoration-skip-ink:none">📍 Get Directions &amp; See Our Reviews on Google</span></span></span></span></span></span></span></span></a></p>
+
+<p style="line-height:1.2; text-align:center; margin-bottom:27px"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial,sans-serif"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:italic"><span style="text-decoration:none">We would be honored to welcome you and your child to our practice. Contact us today to schedule an appointment and discover why Palm Valley represents Scottsdale&#39;s premier choice for pediatric dental excellence.</span></span></span></span></span></span></p>
+
+<p>&nbsp;</p></li>
+<li><div class="mt-4 col-lg-12"><img class="img-fluid"  src="img/pvpdlogo.png" alt=""></div>
+</li></ul></div></div><div class="col-md-3">
+<h3 class="font-weight-bold b346ceb10c541077e8ee398436474c1c9">Connect</h3>
 <hr>
 <div class="social"><p class="sub">Follow us</p>
-<a href="https://www.facebook.com/Pediatric.Dentistry.Orthodontics.Scottsdale/" class="u7927201fe66c10c8cb9e8cbf4d8eaced facebook"  rel="nofollow"><i class="fa fa-facebook"></i></a>
-<a href="https://www.instagram.com/pediatric_dentist_scottsdale/" class="google-plus u7927201fe66c10c8cb9e8cbf4d8eaced" rel="nofollow"><i class="fa fa-instagram"></i></a>
-<a href="https://x.com/pvpdentistry" class="u7927201fe66c10c8cb9e8cbf4d8eaced twitter"  rel="nofollow"><i class="fa fa-twitter"></i></a>
+<a href="https://www.facebook.com/Pediatric.Dentistry.Orthodontics.Scottsdale/" class="ta419b150dc1c7ce618b32562b7a04a32 facebook"  rel="nofollow"><i class="fa fa-facebook"></i></a>
+<a href="https://www.linkedin.com/in/palmvalleypediatricdentistryandorthodontics/" class="ta419b150dc1c7ce618b32562b7a04a32 pinterest" rel="nofollow"><i class="fa fa-linkedin"></i></a>
+<a href="https://www.instagram.com/pediatric_dentist_scottsdale/" class="google-plus ta419b150dc1c7ce618b32562b7a04a32" rel="nofollow"><i class="fa fa-instagram"></i></a>
+<a href="https://x.com/pvpdentistry" class="twitter ta419b150dc1c7ce618b32562b7a04a32"  rel="nofollow"><i class="fa fa-twitter"></i></a>
 </div>
 </div></div>
 <hr>
